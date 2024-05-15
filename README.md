@@ -1,4 +1,4 @@
-<img align="center" src="[![my-image.jpg](https://i.postimg.cc/zfbMDfGt/my-image.jpg)](https://postimg.cc/4KGwBstV)"/>
+<img src="https://i.postimg.cc/zfbMDfGt/my-image.jpg"></img>
 
 - 🔭 I’m currently working on Python & c++
 - 🌱 I’m currently learning Malware and Cyber Security
