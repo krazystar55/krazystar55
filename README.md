@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity** and constan
 
 - 🤖 Open to discussions about **new technologies**.
 - 📧 Reach out to me at **cybeer888@gmail.com**.
-- 🎥 Check out my **YouTube Channel**: [HackMe Gomzee](https://t.me/hackmegomzee).
+- 🎥 Check out my **TELEGRAM Channel**: [HackMe Gomzee](https://t.me/hackmegomzee).
 - ⚡ Fun Fact: I'm always learning **web hacking** and **bug bounty**.
 
 ---
