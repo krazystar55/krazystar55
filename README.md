@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity** and constan
 
 ## 📊 GitHub Contributions
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=krazystar55&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krazystar55&show_icons=true&theme=radical)
 
 ---
 
@@ -107,9 +107,9 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity** and constan
 ![Contact](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp3OGRmODZscXU4anp5NzZta29kdm02YjZ2OWQwaHR4d3czZGN4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1p74BBfYv8JwNC8SYI/giphy.gif)
 
 - **Email**: [cybeer888@gmail.com](mailto:cybeer888@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Website**: [Your Website](https://www.yourwebsite.com)
-- **YouTube Channel**: [HackMe Gomzee](https://t.me/hackmegomzee)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/gautam-2110552b2)
+- **Website**: [Your Website](https://www.cybergomzee.great-site.net)
+- **YouTube Channel**: [HackMe Gomzee](https://youtube.com/@cyber_gomzee)
 
 ---
 
