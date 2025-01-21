@@ -2,20 +2,25 @@
 
 <h2>Cybersecurity Analyst | Bug Bounty Hunter 🛡️</h2>
 
-<img src="https://i.postimg.cc/J4Z6PVys/Screenshot-1253.png" alt="Cyber Gomzee Logo" align="left" height="70px" width="150px"/>
+<p align="center">
+  <img src="https://i.postimg.cc/J4Z6PVys/Screenshot-1253.png" alt="Cyber Gomzee Logo" height="80px"/>
+</p>
 
-Welcome to my GitHub profile! I'm passionate about **Cybersecurity** and constantly exploring new technologies. Here's a snapshot of what I'm working on and how you can connect with me:
-
-  🔗 [**Portfolio**](https://cybergomzee.great-site.net/) |    📧 **cybeer888@gmail.com** | 
-            🔗 [**LinkedIn**](https://www.linkedin.com/in/gautam-2110552b2) |     🐦 [**Twitter**](https://twitter.com/GAUTAM__SOOD)  
+<p align="center">
+  🔗 <a href="https://cybergomzee.great-site.net/">Portfolio</a> |
+  📧 <a href="mailto:cybeer888@gmail.com">cybeer888@gmail.com</a> |
+  🔗 <a href="https://www.linkedin.com/in/gautam-2110552b2">LinkedIn</a> |
+  🐦 <a href="https://twitter.com/GAUTAM__SOOD">Twitter</a>
+</p>  
 
 ---
 
 ## 👨‍💻 **About Me**  
 
-Hello, my name is Gautam Sood
-I’m an ambitious Cybersecurity Analyst and Bug Bounty Hunter with expertise in ethical hacking. I am a highly driven and detail-oriented cybersecurity professional with over a year of hands-on experience in ethical hacking, vulnerability assessments, and penetration testing. My journey into cybersecurity began with a solid foundation in networking and programming and a strong desire to secure digital systems against modern threats. 
-In addition to my certifications, I have completed several online courses on platforms like Udemy and actively practice my skills through bug bounty hunting on platforms such as Bugcrowd and HackerOne. 
+
+Hi, I’m **Gautam Sood**, an ambitious **Cybersecurity Analyst** & **Bug Bounty Hunter**. With over a year of hands-on experience in ethical hacking, vulnerability assessments, and penetration testing, I’m passionate about making the digital world more secure.
+
+My journey started with a solid foundation in networking and programming, which evolved into a career focused on mitigating modern cyber threats. I actively practice my skills through platforms like **Bugcrowd** and **HackerOne** while continuously improving via certifications and advanced training.
 
 ---
 
@@ -23,8 +28,9 @@ In addition to my certifications, I have completed several online courses on pla
 
 ![Current Focus](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBmeHE4MHI4dTZvYnhtd2owbWJxNWR2MDd0YzNndmNyMzY0ZTJ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif)
 
-- 🌟 Working on **Python** & **C++** projects.
-- 🛡️ Learning **Malware Analysis** and **Cybersecurity**.
+- 🌟 **Exploring Python & C++ projects**
+- 🛡️ **Learning Malware Analysis & Cybersecurity**
+- 🔬 **Refining Web Hacking Techniques**
 
 ---
 
@@ -35,10 +41,12 @@ Let’s collaborate to make the digital world more secure! Reach out via [email]
 
 <p align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krazystar55&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krazystar55&layout=compact&theme=radical)  
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=krazystar55&theme=highcontrast)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krazystar55&theme=github)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krazystar55&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krazystar55&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krazystar55&layout=compact&theme=radical"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krazystar55&theme=github" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -47,18 +55,17 @@ Let’s collaborate to make the digital world more secure! Reach out via [email]
 
 ## 🚀 Skills & Technologies
 
-![Skills & Technologies](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
 
-[![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=8E2DE2)](https://isocpp.org/)
-[![HTML5](https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)](https://getbootstrap.com/)
-[![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)](https://www.php.net/)
-[![Firebase](https://img.shields.io/badge/-Firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)](https://firebase.google.com/)
-[![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)](https://github.com/)
+<p align="center">
+
+  ![Skills & Technologies](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
+
+  <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2" />
+  <img src="https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=8E2DE2" />
+  <img src="https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2" />
+  <img src="https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2" />
+  <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2" />
+</p>
 
 ---
 
@@ -141,19 +148,20 @@ Let’s collaborate to make the digital world more secure! Reach out via [email]
  ![Contact](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp3OGRmODZscXU4anp5NzZta29kdm02YjZ2OWQwaHR4d3czZGN4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1p74BBfYv8JwNC8SYI/giphy.gif) 
   
 
-| **Platform**       | **Link**                                       |  
-|---------------------|-----------------------------------------------|  
-| 📧 **Email**        | [cybeer888@gmail.com](mailto:cybeer888@gmail.com) |  
-| 💼 **LinkedIn**     | [Gautam Sood](https://www.linkedin.com/in/gautam-2110552b2) |  
-| 🌐 **Website**      | [Gomzee Website](https://www.cybergomzee.great-site.net) |  
-| ▶️ **YouTube**      | [HackMe Gomzee](https://youtube.com/@cyber_gomzee) |  
-| 🐦 **Twitter**      | [Cyber Gomzee](https://twitter.com/GAUTAM__SooD) |  
-| 📷 **Instagram**    | [Cyber Gomzee](https://www.instagram.com/cyber_gomzee/) |  
-| 📨 **Telegram**     | [HackMe Gomzee](https://t.me/hackmegomzee) |  
+| **Platform**       | **Link**                                                                                       |  
+|---------------------|-----------------------------------------------------------------------------------------------|  
+| 📧 **Email**        | <a href="mailto:cybeer888@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" /></a>  |  
+| 💼 **LinkedIn**     | <a href="https://www.linkedin.com/in/gautam-2110552b2"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a> |  
+| 🌐 **Website**      | <a href="https://www.cybergomzee.great-site.net"><img src="https://img.icons8.com/color/48/000000/internet.png" alt="Website" /></a> |  
+| ▶️ **YouTube**      | <a href="https://youtube.com/@cyber_gomzee"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" /></a> |  
+| 🐦 **Twitter**      | <a href="https://twitter.com/GAUTAM__SOOD"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" /></a> |  
+| 📷 **Instagram**    | <a href="https://www.instagram.com/cyber_gomzee/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a> |  
+| 📨 **Telegram**     | <a href="https://t.me/hackmegomzee"><img src="https://i.postimg.cc/c1jyLnLn/telegram.png" alt="Telegram" /></a> |  
 
 ---
 
 ## ☕ Support Me
+
 
 ![Support Me](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21ndmFjNWxqbXloaWtrZGc5ZnAyY3BqZ2FnampveDluN2EyY2k5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif)
 
