@@ -9,7 +9,7 @@
 <p align="center">
   🔗 <a href="https://cybergomzee.great-site.net/">Portfolio</a> |
   📧 <a href="mailto:cybeer888@gmail.com">cybeer888@gmail.com</a> |
-  🔗 <a href="https://www.linkedin.com/in/gautam-2110552b2">LinkedIn</a> |
+  🔗 <a href="https://www.linkedin.com/in/gautam-sood-2110552b2">LinkedIn</a> |
   🐦 <a href="https://twitter.com/GAUTAM__SOOD">Twitter</a>
 </p>  
 
@@ -151,7 +151,7 @@ Let’s collaborate to make the digital world more secure! Reach out via [email]
 | **Platform**       | **Link**                                                                                       |  
 |---------------------|-----------------------------------------------------------------------------------------------|  
 | 📧 **Email**        | <a href="mailto:cybeer888@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" /></a>  |  
-| 💼 **LinkedIn**     | <a href="https://www.linkedin.com/in/gautam-2110552b2"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a> |  
+| 💼 **LinkedIn**     | <a href="https://www.linkedin.com/in/gautam-sood-2110552b2"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a> |  
 | 🌐 **Website**      | <a href="https://www.cybergomzee.great-site.net"><img src="https://img.icons8.com/color/48/000000/internet.png" alt="Website" /></a> |  
 | ▶️ **YouTube**      | <a href="https://youtube.com/@cyber_gomzee"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" /></a> |  
 | 🐦 **Twitter**      | <a href="https://twitter.com/GAUTAM__SOOD"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" /></a> |  
