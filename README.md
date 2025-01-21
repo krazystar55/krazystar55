@@ -37,7 +37,7 @@ My journey started with a solid foundation in networking and programming, which 
 
 ## 📊 **GitHub Stats & Contributions**
 
-Let’s collaborate to make the digital world more secure! Reach out via [email](mailto:soodgautam35@gmail.com), [LinkedIn](https://www.linkedin.com/in/gautam-2110552b2), or check out my [Telegram Channel](https://t.me/hackmegomzee).
+Let’s collaborate to make the digital world more secure! Reach out via [email](mailto:soodgautam35@gmail.com), [LinkedIn](https://www.linkedin.com/in/gautam-sood-2110552b2), or check out my [Telegram Channel](https://t.me/hackmegomzee).
 
 <p align="center">
   
@@ -45,7 +45,7 @@ Let’s collaborate to make the digital world more secure! Reach out via [email]
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krazystar55&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krazystar55&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krazystar55&layout=compact&theme=radical"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krazystar55&layout=compact&theme=radical" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krazystar55&theme=github" alt="GitHub Activity Graph" />
 </p>
 
