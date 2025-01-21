@@ -102,7 +102,7 @@ Let’s collaborate to make the digital world more secure! Reach out via [email]
 
 ## 🎓 Learning & Growth
 
-![Learning](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BqNTI5ZjlrYjl6ZHJ1ejI0cjJmang0d3AxZHg4ZG8xem5vZW56YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sgMLlzON4djJ15wQIh/giphy.gif)
+![Learning](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4MWhzZnR6NGhrajVoYzJ3dWZxd2JwamYwejhoNGJmYzVwejAyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0IxCCFB96rqSvMof7o/giphy.gif)
 
 - **Malware Analysis**: Delving into techniques for analyzing and mitigating malicious software.
 - **Web Hacking**: Continuously improving skills in web security and bug bounty hunting.
@@ -110,11 +110,10 @@ Let’s collaborate to make the digital world more secure! Reach out via [email]
 
 ---
 
-## 🧩 Fun Facts & Interests
-
-![Fun Facts](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4MWhzZnR6NGhrajVoYzJ3dWZxd2JwamYwejhoNGJmYzVwejAyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0IxCCFB96rqSvMof7o/giphy.gif)
 
 ## 🏆 **Achievements**  
+
+![Achievements](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l2bHljbTR0YmZlOHFvdzBqcTcwMWFzNXZ2NGdjYjc2Y2NyajdueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3lSXBFOP8d01vO1bLi/giphy.gif)
 
 - **Bugcrowd Leaderboard:** Top **70%**  
 - **Resolved Vulnerabilities:** Over **10+ critical issues**  
@@ -123,6 +122,8 @@ Let’s collaborate to make the digital world more secure! Reach out via [email]
 ---
 
 ## 📜 **Certifications**  
+
+![Certifications](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BtbHlkeDJ2Mjc2ODEyNXppZXlmMHBkb204dnlzdWw1NXM0NW9idyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c633R44duH0P4upxvZ/giphy.gif)
 
 - **Google Cybersecurity Certificate**  
 - **Cisco Introduction to Cybersecurity**  
@@ -133,6 +134,8 @@ Let’s collaborate to make the digital world more secure! Reach out via [email]
 ---
 
 ## ✍️ **Writeups**  
+
+![Writeups](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ2eWwwa2w5Y284aTUzZzNldG4wMnBqcjIwZWU3cGFmeTA0dzZ3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1eP0qQkhDGWb4Fr2w/giphy.gif)
 
 - [**HackTheBox Challenges**](https://github.com/krazystar55/writeups/hackthebox/)  
 
