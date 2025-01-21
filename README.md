@@ -1,8 +1,21 @@
-# 👨‍💻 Cyber Gomzee - Cybersecurity Enthusiast
+ <h1>Gautam Sood👨‍💻</h1>
 
-<img src="https://i.postimg.cc/dVVntRG7/photo-2024-08-17-16-19-44-removebg-preview-1.png" alt="Cyber Gomzee Logo" align="left" height="70px" width="150px"/>
+<h2>Cybersecurity Analyst | Bug Bounty Hunter 🛡️</h2>
+
+<img src="https://i.postimg.cc/J4Z6PVys/Screenshot-1253.png" alt="Cyber Gomzee Logo" align="left" height="70px" width="150px"/>
 
 Welcome to my GitHub profile! I'm passionate about **Cybersecurity** and constantly exploring new technologies. Here's a snapshot of what I'm working on and how you can connect with me:
+
+  🔗 [**Portfolio**](https://cybergomzee.great-site.net/) |    📧 **cybeer888@gmail.com** | 
+            🔗 [**LinkedIn**](https://www.linkedin.com/in/gautam-2110552b2) |     🐦 [**Twitter**](https://twitter.com/GAUTAM__SOOD)  
+
+---
+
+## 👨‍💻 **About Me**  
+
+Hello, my name is Gautam Sood
+I’m an ambitious Cybersecurity Analyst and Bug Bounty Hunter with expertise in ethical hacking. I am a highly driven and detail-oriented cybersecurity professional with over a year of hands-on experience in ethical hacking, vulnerability assessments, and penetration testing. My journey into cybersecurity began with a solid foundation in networking and programming and a strong desire to secure digital systems against modern threats. 
+In addition to my certifications, I have completed several online courses on platforms like Udemy and actively practice my skills through bug bounty hunting on platforms such as Bugcrowd and HackerOne. 
 
 ---
 
@@ -15,32 +28,22 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity** and constan
 
 ---
 
-## 💬 Let's Connect
 
-![Connect](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdscm9xOHNhYnhpczJ2dTR4eHZpOGZ0cjRsbHVoNnhib3F2bmxlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c6LsXARy3A9PxbmgAj/giphy.gif)
+## 📊 **GitHub Stats & Contributions**
 
-- 🤖 Open to discussions about **new technologies**.
-- 📧 Reach out to me at **cybeer888@gmail.com**.
-- 🎥 Check out my **TELEGRAM Channel**: [HackMe Gomzee](https://t.me/hackmegomzee).
-- ⚡ Fun Fact: I'm always learning **web hacking** and **bug bounty**.
+Let’s collaborate to make the digital world more secure! Reach out via [email](mailto:soodgautam35@gmail.com), [LinkedIn](https://www.linkedin.com/in/gautam-2110552b2), or check out my [Telegram Channel](https://t.me/hackmegomzee).
 
----
-
-## 📊 GitHub Contributions
-
+<p align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krazystar55&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krazystar55&layout=compact&theme=radical)  
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=krazystar55&theme=highcontrast)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krazystar55&show_icons=true&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krazystar55&theme=github)
+</p>
 
 ---
 
-## 📱 Social Media
 
-[![Instagram](https://img.shields.io/badge/Instagram-DD2476?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cyber_gomzee/)
-[![Facebook](https://img.shields.io/badge/Facebook-344E86?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cyber_gomzee/)
-[![Twitter](https://img.shields.io/badge/Twitter-0D95E8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Cyber_gomzee/)
-[![Telegram](https://img.shields.io/badge/Telegram-8E2DE2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hackmegomzee/)
-
----
 
 ## 🚀 Skills & Technologies
 
@@ -63,12 +66,16 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity** and constan
 
 ![Projects](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RiendpbmYzeTJ5M3BmcXhsN28waTk0eTlyeGw3OXZlazdybWZsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2AVDG3vH0DVuiS9EYg/giphy.gif)
 
-- **Cyber Gomzee**: Building a virtual assistant that integrates network scanning, vulnerability scanning, and automation functionalities.
-- **Advanced Exploitation Tool**: Developing a comprehensive tool for ethical hacking with both GUI and CLI formats.
-- **Wireless Testing Tool**: Creating an advanced tool for testing wireless networks with both GUI and CLI options.
-- **Web Development Projects**: Working on a professional drop shipping and t-shirt printing website with advanced features.
+| **Project**                          | **Description**                                                                  | **Features**                              |
+|--------------------------------------|----------------------------------------------------------------------------------|------------------------------------------|
+| [🔑 **Password Generator**](https://github.com/krazystar55/password-generator) | Python tool to create customizable, secure passwords.                           | User-defined complexity, randomization.  |
+| [💻 **Web App Security Audit**](https://github.com/krazystar55/webapp-security-assessment) | Security audit of an e-commerce platform.                                       | Identified and fixed critical flaws.     |
+| [🛡️ **Incident Forensics**](https://github.com/krazystar55/incident-response) | Forensic analysis of a data breach.                                             | Discovered root causes and suggested fixes. |
+| [🤖 **Cyber Gomzee**](#)              | Virtual assistant integrating network scanning, vulnerability automation.         | GUI and CLI for flexible workflows.      |
+| [📡 **Wireless Testing Tool**](#)    | Advanced tool for wireless network testing with GUI and CLI options.             | Customizable scan modes.                 |
 
 ---
+
 
 ## 🛠️ Tools & Technologies
 
@@ -79,6 +86,10 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity** and constan
 - **HTML5, CSS3, JavaScript**: Core technologies for modern web development.
 - **Git & GitHub**: Version control and collaboration tools.
 - **Firebase**: Cloud-based platform for building web and mobile apps.
+- **Technologies:** Kali Linux, Wireshark, Metasploit, Burp Suite, Nmap  
+- **Programming:** Python, JavaScript, HTML/CSS  
+- **Techniques:** Vulnerability Assessment, Threat Analysis, Incident Response  
+- **Networking:** TCP/IP, Firewall Configuration, DNS, DHCP
 
 ---
 
@@ -96,20 +107,49 @@ Welcome to my GitHub profile! I'm passionate about **Cybersecurity** and constan
 
 ![Fun Facts](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4MWhzZnR6NGhrajVoYzJ3dWZxd2JwamYwejhoNGJmYzVwejAyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0IxCCFB96rqSvMof7o/giphy.gif)
 
-- **Hacker Culture Enthusiast**: Always exploring the latest in hacking culture and techniques.
-- **Tech Gadgets**: Passionate about the newest gadgets and tech innovations.
-- **Cybersecurity Challenges**: Engaging in various CTF (Capture The Flag) challenges to sharpen skills.
+## 🏆 **Achievements**  
+
+- **Bugcrowd Leaderboard:** Top **70%**  
+- **Resolved Vulnerabilities:** Over **10+ critical issues**  
+- **Client Savings:** Helped save **$1,000+** through proactive strategies  
 
 ---
 
+## 📜 **Certifications**  
+
+- **Google Cybersecurity Certificate**  
+- **Cisco Introduction to Cybersecurity**  
+- **IBM Cybersecurity Essentials**  
+- **Ethical Hacker Essentials (EC-Council)**  
+- **The Complete Ethical Hacking Course (Udemy)**  
+
+---
+
+## ✍️ **Writeups**  
+
+- [**HackTheBox Challenges**](https://github.com/krazystar55/writeups/hackthebox/)  
+
+- [**Bug Bounty Vulnerabilities**](https://github.com/krazystar55/writeups/bugbounty/)
+
+- [**MEDIUM**](https://medium.com/@soodgautam35/)
+
+---
+
+
 ## 📝 Contact Me
 
-![Contact](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp3OGRmODZscXU4anp5NzZta29kdm02YjZ2OWQwaHR4d3czZGN4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1p74BBfYv8JwNC8SYI/giphy.gif)
+ ![Contact](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXp3OGRmODZscXU4anp5NzZta29kdm02YjZ2OWQwaHR4d3czZGN4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1p74BBfYv8JwNC8SYI/giphy.gif) 
+  
 
-- **Email**: [cybeer888@gmail.com](mailto:cybeer888@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/gautam-2110552b2)
-- **Website**: [Gomzee Website](https://www.cybergomzee.great-site.net)
-- **YouTube Channel**: [HackMe Gomzee](https://youtube.com/@cyber_gomzee)
+| **Platform**       | **Link**                                       |  
+|---------------------|-----------------------------------------------|  
+| 📧 **Email**        | [cybeer888@gmail.com](mailto:cybeer888@gmail.com) |  
+| 💼 **LinkedIn**     | [Gautam Sood](https://www.linkedin.com/in/gautam-2110552b2) |  
+| 🌐 **Website**      | [Gomzee Website](https://www.cybergomzee.great-site.net) |  
+| ▶️ **YouTube**      | [HackMe Gomzee](https://youtube.com/@cyber_gomzee) |  
+| 🐦 **Twitter**      | [Cyber Gomzee](https://twitter.com/GAUTAM__SooD) |  
+| 📷 **Instagram**    | [Cyber Gomzee](https://www.instagram.com/cyber_gomzee/) |  
+| 📨 **Telegram**     | [HackMe Gomzee](https://t.me/hackmegomzee) |  
 
 ---
 
